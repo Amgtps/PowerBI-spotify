@@ -45,7 +45,9 @@ View project here: [PowerBI-spotify](https://github.com/Amgtps/PowerBI-spotify)
 
 ### Installation
 1. Clone the repository:
-
+```bash
+git clone https://github.com/Amgtps/PowerBI-spotify.git
+```
 1. Open the .pbix file in Power BI Desktop
 2. Update data source connections
 3. Refresh data to see your own Spotify analytics
