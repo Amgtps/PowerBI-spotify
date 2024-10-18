@@ -5,6 +5,8 @@ An interactive Power BI dashboard that visualizes Spotify streaming analytics an
 
 View project here: [PowerBI-spotify](https://github.com/Amgtps/PowerBI-spotify)
 
+![image](https://github.com/user-attachments/assets/e325701e-17ea-4587-8973-5696fe9cf3c0)
+
 ## 📊 Features
 
 ### Dashboard Components
